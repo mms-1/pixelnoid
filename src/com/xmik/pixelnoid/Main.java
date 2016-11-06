@@ -1,7 +1,6 @@
 package com.xmik.pixelnoid;
 
-import java.nio.file.Path;
-import java.nio.file.Paths;
+import java.nio.file.*; /* Hello from codenvy */
 
 public class Main {
 
