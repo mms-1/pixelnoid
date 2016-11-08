@@ -1,4 +1,7 @@
 package com.xmik.pixelnoid.logic;
 
-public class Brick {
+public interface Brick {
+    public void draw();
+    public void destroy();
+    
 }
